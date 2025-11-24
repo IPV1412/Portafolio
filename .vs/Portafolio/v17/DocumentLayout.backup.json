@@ -3,30 +3,24 @@
   "WorkspaceRootPath": "C:\\Github\\Portafolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\Portafolio\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\Portafolio\\Proyectos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proyectos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OVERLORD\\Documents\\JHONY\\Escuela\\UNIAT\\Guardados\\4\u00B0 Semestre\\Programacion Web II\\Pagina web II - UNIAT\\WEB I.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OVERLORD\\Documents\\JHONY\\Escuela\\UNIAT\\Guardados\\4\u00B0 Semestre\\Programacion Web II\\Pagina web II - UNIAT\\Perspectiva historica del internet.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\Portafolio\\Contacto.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contacto.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\Portafolio\\Main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\Portafolio\\Contacto.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contacto.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\Portafolio\\Main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\Portafolio\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,50 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Perspectiva historica del internet.html",
-              "DocumentMoniker": "C:\\Users\\OVERLORD\\Documents\\JHONY\\Escuela\\UNIAT\\Guardados\\4\u00B0 Semestre\\Programacion Web II\\Pagina web II - UNIAT\\Perspectiva historica del internet.html",
-              "RelativeDocumentMoniker": "..\\..\\Users\\OVERLORD\\Documents\\JHONY\\Escuela\\UNIAT\\Guardados\\4\u00B0 Semestre\\Programacion Web II\\Pagina web II - UNIAT\\Perspectiva historica del internet.html",
-              "ToolTip": "C:\\Users\\OVERLORD\\Documents\\JHONY\\Escuela\\UNIAT\\Guardados\\4\u00B0 Semestre\\Programacion Web II\\Pagina web II - UNIAT\\Perspectiva historica del internet.html",
-              "RelativeToolTip": "..\\..\\Users\\OVERLORD\\Documents\\JHONY\\Escuela\\UNIAT\\Guardados\\4\u00B0 Semestre\\Programacion Web II\\Pagina web II - UNIAT\\Perspectiva historica del internet.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-24T01:14:08.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WEB I.html",
-              "DocumentMoniker": "C:\\Users\\OVERLORD\\Documents\\JHONY\\Escuela\\UNIAT\\Guardados\\4\u00B0 Semestre\\Programacion Web II\\Pagina web II - UNIAT\\WEB I.html",
-              "RelativeDocumentMoniker": "..\\..\\Users\\OVERLORD\\Documents\\JHONY\\Escuela\\UNIAT\\Guardados\\4\u00B0 Semestre\\Programacion Web II\\Pagina web II - UNIAT\\WEB I.html",
-              "ToolTip": "C:\\Users\\OVERLORD\\Documents\\JHONY\\Escuela\\UNIAT\\Guardados\\4\u00B0 Semestre\\Programacion Web II\\Pagina web II - UNIAT\\WEB I.html",
-              "RelativeToolTip": "..\\..\\Users\\OVERLORD\\Documents\\JHONY\\Escuela\\UNIAT\\Guardados\\4\u00B0 Semestre\\Programacion Web II\\Pagina web II - UNIAT\\WEB I.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-23T23:41:02.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Proyectos.html",
               "DocumentMoniker": "C:\\Github\\Portafolio\\Proyectos.html",
               "RelativeDocumentMoniker": "Proyectos.html",
               "ToolTip": "C:\\Github\\Portafolio\\Proyectos.html",
               "RelativeToolTip": "Proyectos.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-11-23T23:27:39.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Main.html",
               "DocumentMoniker": "C:\\Github\\Portafolio\\Main.html",
               "RelativeDocumentMoniker": "Main.html",
@@ -92,39 +60,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Contacto.html",
               "DocumentMoniker": "C:\\Github\\Portafolio\\Contacto.html",
               "RelativeDocumentMoniker": "Contacto.html",
               "ToolTip": "C:\\Github\\Portafolio\\Contacto.html",
               "RelativeToolTip": "Contacto.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-11-23T23:27:39.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Main.css",
               "DocumentMoniker": "C:\\Github\\Portafolio\\Main.css",
               "RelativeDocumentMoniker": "Main.css",
               "ToolTip": "C:\\Github\\Portafolio\\Main.css",
               "RelativeToolTip": "Main.css",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAAAHcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAcwBMBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-10-27T19:24:47.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.html",
               "DocumentMoniker": "C:\\Github\\Portafolio\\Index.html",
               "RelativeDocumentMoniker": "Index.html",
               "ToolTip": "C:\\Github\\Portafolio\\Index.html",
               "RelativeToolTip": "Index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-27T17:21:15.585Z",
               "EditorCaption": ""

@@ -3,34 +3,80 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <title>Portafolio</title>
+    <title>Inicio</title>
+    <link href="IMG/Logo_v2_SF.png" rel="icon" type="imagenes/jpg">
     <link rel="stylesheet" href="Main.css">
 </head>
 <body>
     <div class="wrap">
         <header>
-            <a href="index.html" class="brand"><div class="logo">🎮</div><h2>Mi Portafolio</h2></a>
+            <img src="IMG\Logo_Complete.png" width="100px" height="100px" />
+            <a href="index.html" class="brand">
+                <div class="logo">
+                </div><h2>Jonathan Nava Noguez</h2>
+            </a>
             <nav>
                 <ul>
-                    <li><a href="index.html">Inicio</a></li>
-                    <li><a href="Main.html">Acerca</a></li>
-                    <li><a href="Proyectos.html">Portafolio</a></li>
-                    <li><a href="Contacto.html">Contacto</a></li>
+                    <li><a href="index.html"> Inicio <span></span><span></span><span></span><span></span> </a></li>
+                    <li><a href="Main.html">Acerca <span></span><span></span><span></span><span></span> </a></li>
+                    <li><a href="Proyectos.html">Portafolio <span></span><span></span><span></span><span></span> </a></li>
+                    <li><a href="Contacto.html">Contacto <span></span><span></span><span></span><span></span> </a></li>
                 </ul>
             </nav>
         </header>
         <main>
             <section class="card">
-                <h2>Proyectos de Videojuegos</h2>
-                <div class="card">
-                    <h3>Neon Drift</h3>
-                    <p>Juego arcade de carreras futuristas hecho con Unity3D y C#.</p>
-                    <a href="https://github.com/" class="btn">Ver Código</a>
+                <h2 class="text-center">Bienvenido a mi portafolio</h2>
+
+                <!-- Experiencia 1 -->
+                <div class="card" style="display:flex;flex-wrap:wrap;align-items:center;gap:20px;">
+                    <img src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?auto=format&fit=crop&w=800&q=80"
+                         alt="Juego de plataformas"
+                         style="width:100%;max-width:400px;border-radius:12px;object-fit:cover;">
+                    <div style="flex:1;min-width:250px;">
+                        <h3>Juego de plataformas</h3>
+                        <p class="muted">
+                            Proyecto 2D desarrollado con Unity, enfocado en mecánicas de salto, niveles desafiantes y estilo visual retro.
+                        </p>
+                        <div class="game-links">
+                            <a href="https://github.com/IPV1412/Examen4MG" target="_blank" class="btn">Código</a>
+                            <a href="#" class="btn secondary">Ver demo</a>
+                        </div>
+                    </div>
                 </div>
-                <div class="card">
-                    <h3>Pixel Quest</h3>
-                    <p>Plataformero 2D retro hecho con Phaser.js.</p>
-                    <a href="https://github.com/" class="btn">Ver Código</a>
+
+                <!-- Proyecto 2 -->
+                <div class="card" style="display:flex;flex-wrap:wrap-reverse;align-items:center;gap:20px;">
+                    <div style="flex:1;min-width:250px;">
+                        <h3>Aventura interactiva</h3>
+                        <p class="muted">
+                            Videojuego narrativo en 3D con Unreal Engine. Explora mundos fantásticos donde las decisiones afectan la historia.
+                        </p>
+                        <div class="game-links">
+                            <a href="https://github.com/" target="_blank" class="btn">Código</a>
+                            <a href="#" class="btn secondary">Ver trailer</a>
+                        </div>
+                    </div>
+                    <img src="https://images.unsplash.com/photo-1603425013520-e0b30e6e37dc?auto=format&fit=crop&w=800&q=80"
+                         alt="Aventura interactiva"
+                         style="width:100%;max-width:400px;border-radius:12px;object-fit:cover;">
+                </div>
+
+                <!-- Proyecto 3 -->
+                <div class="card" style="display:flex;flex-wrap:wrap;align-items:center;gap:20px;">
+                    <img src="https://images.unsplash.com/photo-1490810194309-344b3661ba39?auto=format&fit=crop&w=800&q=80"
+                         alt="Puzzle multijugador"
+                         style="width:100%;max-width:400px;border-radius:12px;object-fit:cover;">
+                    <div style="flex:1;min-width:250px;">
+                        <h3>Puzzle multijugador</h3>
+                        <p class="muted">
+                            Juego de rompecabezas en línea con integración de Photon y C#. Competencia en tiempo real y lógica cooperativa.
+                        </p>
+                        <div class="game-links">
+                            <a href="https://github.com/" target="_blank" class="btn">Código</a>
+                            <a href="#" class="btn secondary">Ver demo</a>
+                        </div>
+                    </div>
                 </div>
             </section>
         </main>
