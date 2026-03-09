@@ -61,6 +61,10 @@ header {
     place-items: center;
 }
 
+a {
+    text-decoration: none;
+}
+
 nav ul {
     list-style: none;
     display: flex;
@@ -101,7 +105,7 @@ nav ul {
         }
 
         nav ul li:hover {
-            color: black;
+            color: white;
         }
 
             nav ul li:hover span {
@@ -144,8 +148,8 @@ footer {
 }
 
     footer a {
-        color: var(--accent);
-        text-decoration: none;
+       color: var(--accent);
+       text-decoration: none;
     }
 
 /* FORMULARIO */
