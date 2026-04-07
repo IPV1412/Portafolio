@@ -51,7 +51,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
 
-    <script>
+   <script>
 (function(){
     emailjs.init("CEqphz2KRN53Rn4Rn"); 
 })();
@@ -59,11 +59,18 @@
 document.getElementById("contactForm").addEventListener("submit", function(e) {
     e.preventDefault();
 
-    emailjs.sendForm("service_ffkivc8", "template_0cdxp6y", this)
+    if (localStorage.getItem("formEnviado")) {
+        alert("Ya has enviado un mensaje 🚫");
+        return;
+    }
+
+    emailjs.sendForm("service_ffkivc8", "template_2k628oq", this)
     .then(function() {
-        alert("Mensaje enviado correctamente ✅");
+        alert("Mensaje enviado correctamente, gracias por contactarme");
+        localStorage.setItem("formEnviado", "true");
+
     }, function(error) {
-        alert("Error al enviar ❌");
+        alert("Error al enviar.");
         console.log(error);
     });
 });
