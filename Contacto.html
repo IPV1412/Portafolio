@@ -34,10 +34,10 @@
         <main>
             <section class="card">
                 <h2>Contáctame</h2>
-                <form action="mailto:tu_correo@hotmail.com" method="post" enctype="text/plain">
+                <form id="contactForm">
                     <input type="text" name="nombre" placeholder="Tu nombre" required>
                     <input type="email" name="email" placeholder="Tu correo" required>
-<textarea name="mensaje" rows="5" placeholder="Tu mensaje" required></textarea>
+                    <textarea name="mensaje" rows="5" placeholder="Tu mensaje" required></textarea>
                     <button type="submit" class="btn">Enviar</button>
                 </form>
             </section>
@@ -48,5 +48,26 @@
             <p>© 2025 Todos los derechos reservados | <a href="https://github.com/IPV1412">GitHub</a> | <a href="https://www.linkedin.com/in/b19624341/">LinkedIn</a></p>
         </footer>
     </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+
+    <script>
+(function(){
+    emailjs.init("CEqphz2KRN53Rn4Rn"); 
+})();
+
+document.getElementById("contactForm").addEventListener("submit", function(e) {
+    e.preventDefault();
+
+    emailjs.sendForm("service_ffkivc8", "template_0cdxp6y", this)
+    .then(function() {
+        alert("Mensaje enviado correctamente ✅");
+    }, function(error) {
+        alert("Error al enviar ❌");
+        console.log(error);
+    });
+});
+    </script>
+
 </body>
 </html>
